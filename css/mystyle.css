@@ -1,0 +1,92 @@
+
+/*
+  <JasperRSSReader>  Copyright (C) 2018  Jaspers
+  
+	File: mystyle.css
+	Author: Jaspers
+	Created by 2018-07-14
+	Goal: Jasper RSS Reader의 스타일 영역 담당
+	Description:
+	
+*/
+
+a:link { color: #000; text-decoration: none;}
+a:visited { color: #000; text-decoration: none;}
+a:hover { color: #000; text-decoration: underline;}
+
+body {
+  background-color:#FFF;
+}
+h1   {
+  color: blue;
+}
+h2 {
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+h3 {
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+h4 {
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+h5 {
+  font-family: "Nanum Gothic", sans-serif;
+}
+p{
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+.tg  {
+  border-collapse:collapse;border-spacing:0;border-color:#999;
+}
+.tg td{
+  font-family: "Nanum Gothic", sans-serif;
+  font-size:14px;
+  padding:10px 5px;
+  border-style:solid;
+  border-width:1px;
+  overflow:hidden;
+  word-break:normal;
+  border-color:#999;
+  color:#444;
+  background-color:#FFF;
+}
+.tg th{
+  font-family: "Nanum Gothic", sans-serif;
+  font-size:14px;
+  font-weight:normal;
+  padding:10px 5px;
+  border-style:solid;
+  border-width:1px;
+  overflow:hidden;
+  word-break:normal;
+  border-color:#999;
+  color:#fff;
+  background-color:#26ADE4;
+}
+.tg .tg-2oxn{
+  font-family: "Nanum Gothic", sans-serif;
+  border-color:inherit;
+  vertical-align:top
+}
+.tg .tg-q7k0{
+  font-family: "Nanum Gothic", sans-serif;
+  background-color:#f8a102;
+  border-color:inherit;
+  vertical-align:top
+}
+
+#ft_information{
+  font-family: "Nanum Gothic", sans-serif;
+  font-size:12px;
+  color:#000000;
+}
+
+.time_font{
+  font-family: "Nanum Gothic", sans-serif;
+  font-size:12px;
+  margin-right:10px;
+}
